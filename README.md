@@ -1,3 +1,4 @@
+![PasswordGeneratorCLI](https://user-images.githubusercontent.com/34812693/213520913-978a23b6-e1ac-4934-af5d-49a8b45d6c3c.png)
 # PasswordGeneratorCLI
 
 It is a software to generate your password to simply
