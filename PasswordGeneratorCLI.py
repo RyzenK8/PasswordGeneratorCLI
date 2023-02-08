@@ -17,20 +17,18 @@ while (length == None):
     # Try to convert the input to an integer
     try:
         length = int(input("Enter desired password length: "))
-        
     # If the input is not an integer, set the length to None
     except ValueError:
         print("\nInvalid length. Please enter a numerical value.")
         length = None
-        
     # Set a limit so that the program doesn't crash
     if (length > 100):
         print("\nMaximum length is 100 characters.")
         length = None
 
-    # Double the characters in the string if the length is greater than the number of characters
-    while (length > len(all)):
-        all = all + all
+# Double the characters in the string if the length is greater than the number of characters
+while (length > len(all)):
+    all = all + all
   
 password = "".join(random.sample(all, length))
 
