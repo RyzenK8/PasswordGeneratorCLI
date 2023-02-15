@@ -33,7 +33,7 @@ while (length > len(all)):
 password = "".join(random.sample(all, length))
 
 # Output CLI
-print ('Warning, This project is in alpha or development stage. Maybe may have some malfunctions. Can try to compile the program native working for you systems.')
+print ('Warning, This project is in beta or development stage. Maybe may have some malfunctions.')
 print (' ')
 print ('Your password has been generated !')
 print ('================================')
