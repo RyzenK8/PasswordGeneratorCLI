@@ -1,10 +1,9 @@
 ![PasswordGeneratorCLI](https://user-images.githubusercontent.com/34812693/213520913-978a23b6-e1ac-4934-af5d-49a8b45d6c3c.png)
 # PasswordGeneratorCLI
 
-It is a software to generate your password to simply
-With the terminal or CLI.
+It is a software to generate your password to simply with the terminal or CLI.
 
-You can change the password character size, defaut 32.
+Can you choose the number of characters up to 75 password.
 
 ## Read info
 Attention, this project is in alpha phase. Maybe there are some malfunctions. You can try to compile the program for your systems.
