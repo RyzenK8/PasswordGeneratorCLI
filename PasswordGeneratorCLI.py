@@ -22,8 +22,8 @@ while (length == None):
         print("\nInvalid length. Please enter a numerical value.")
         length = None
     # Set a limit so that the program doesn't crash
-    if (length > 100):
-        print("\nMaximum length is 100 characters.")
+    if (length > 75):
+        print("\nMaximum length is 75 characters.")
         length = None
 
 # Double the characters in the string if the length is greater than the number of characters
@@ -33,7 +33,7 @@ while (length > len(all)):
 password = "".join(random.sample(all, length))
 
 # Output CLI
-print ('Warning, This project is in beta or development stage. Maybe may have some malfunctions.')
+print ('Warning, This project in stage beta. Maybe may have some malfunctions.')
 print (' ')
 print ('Your password has been generated !')
 print ('================================')
