@@ -1,13 +1,21 @@
-# Dependency and combination characters
+# Dependencies
 import random
 import sys
 
+# Intro
+print("\033[1;33m\n")
+print("The project was created, By RyzenK8 ^^")
+print()
+print("PasswordGeneratorCLI")
+print()
+
+# The password generator configuration
 lower = "abcdefghijklmnopqrstuvwxyz"
 upper = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 numbers = "0123456789"
 symbols = "[]{}()*;/,._-"
 
-# The password generator configuration
+# Configuration make password.
 all = lower + upper + numbers + symbols
 
 # Set the password length to None to start the loop
@@ -33,13 +41,16 @@ while (length > len(all)):
 password = "".join(random.sample(all, length))
 
 # Output CLI
-print ('Warning, This project in stage beta. Maybe may have some malfunctions.')
-print (' ')
+print("\033[1;32m\n")
+print ('Thank you for using our PasswordGeneratorCLI.')
+print ()
 print ('Your password has been generated !')
-print ('================================')
+print ()
+print ("+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++")
 print (password)
-print ('================================')
-print (' ')
+print ("+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++")
+print ()
 
+# System exit
 input("Press the enter button to exit.")
 sys.exit()
