@@ -4,7 +4,7 @@ import sys
 
 # Intro
 print("\033[1;33m\n")
-print("The project was created, By RyzenK8 ^^")
+print("The project was created, By RyzenK8 and Contributors ^^")
 print()
 print("PasswordGeneratorCLI")
 print()
