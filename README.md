@@ -5,7 +5,7 @@ It is a software to generate your password simply with the terminal or the CLI.
 ## License
 ![Opensource](https://user-images.githubusercontent.com/34812693/220222141-7ca2edf5-9f2a-4bb8-a79a-8be95dd1d9e6.png)
 
-- Everyone can modify thr project without restrictions.
+- Everyone can modify the project without restrictions.
 - Open source and free.
 
 ## Read info
