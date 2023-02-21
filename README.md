@@ -1,11 +1,12 @@
 ![PasswordGeneratorCLI](https://user-images.githubusercontent.com/34812693/213520913-978a23b6-e1ac-4934-af5d-49a8b45d6c3c.png)
 # PasswordGeneratorCLI
+It is a software to generate your password simply with the terminal or the CLI.
 
-It is a software to generate your password to simply with the terminal or CLI.
-Open source and free without restrictions.
-
+## License
 ![Opensource](https://user-images.githubusercontent.com/34812693/220222141-7ca2edf5-9f2a-4bb8-a79a-8be95dd1d9e6.png)
 
+- Everyone can modify thr project without restrictions.
+- Open source and free.
 
 ## Read info
 The project was final version, Recommended for use in production or your project.
