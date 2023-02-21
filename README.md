@@ -2,11 +2,17 @@
 # PasswordGeneratorCLI
 
 It is a software to generate your password to simply with the terminal or CLI.
+Open source and free without restrictions.
 
-Can you choose the number of characters up to 75 password.
+![Opensource](https://user-images.githubusercontent.com/34812693/220222141-7ca2edf5-9f2a-4bb8-a79a-8be95dd1d9e6.png)
+
 
 ## Read info
-Attention, this project is in alpha phase. Maybe there are some malfunctions. You can try to compile the program for your systems.
+The project was final version, Recommended for use in production or your project.
+- **_Available for Windows, Linux, MacOS, FreeBSD._**
+- Choose the number of characters up to 75 for your password.
 
-### Exemple output
-![Screenshot](https://user-images.githubusercontent.com/34812693/213514304-21eec773-8bb6-4d0f-acd9-dfe20236c416.png)
+## Screenshot
+![untitled222](https://user-images.githubusercontent.com/34812693/220221382-f19ba548-f4ef-41a2-bfc8-46f6142eefd0.jpeg)
+
+![Untitled223](https://user-images.githubusercontent.com/34812693/220221392-f0f7ef58-b63f-4416-ba22-fa363ab8afa0.jpeg)
